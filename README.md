@@ -29,7 +29,7 @@ Resten kan ændres i server.cfg
 Husk at importere databasen
 
 
-#Installation
+# Installation
 Step 1 Download database sql filen fra github.
 Step 2 Download serverfilerne fra dette link http://bit.ly/skyunifil
 Step 3 Importer databasen
