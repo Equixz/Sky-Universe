@@ -11,3 +11,9 @@ Kasper Rasmussen
 Hjorten
 
 Stor ros til disse personer, ingen fortjener at andre har fortjenest på jeres arbejde! <3
+
+Alt er sat op og klar til at køre.
+Åben den cmd fil der hedder startserver.bat
+
+Resten kan ændres i server.cfg
+Ses
