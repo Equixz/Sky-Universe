@@ -38,3 +38,6 @@ Step 5 Lav nu serveren til din egen og lav lortet unikt.
 
 
 Ses
+
+Kazoon, Hoejbjerg eller jeg gider ikke hjælpe jer med at tage filerne, ændre navnet til noget andet så i kan kører en kopi af Sky-Universe.
+Så lad være med at spilde vores tid, og jeres egen, vi yder INGEN hjælp.
