@@ -106,7 +106,7 @@ CREATE TABLE IF NOT EXISTS `vrp_users` (
   `_updated` timestamp NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
   `verify` tinyint(1) DEFAULT 0,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4592 DEFAULT CHARSET=utf8 COLLATE=utf8_danish_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8 COLLATE=utf8_danish_ci;
 
 -- Dumping data for table vrpfx.vrp_users: ~0 rows (approximately)
 /*!40000 ALTER TABLE `vrp_users` DISABLE KEYS */;
