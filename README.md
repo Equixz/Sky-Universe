@@ -1,9 +1,12 @@
 # Sky-Universe http://bit.ly/skyunifil
+
+Stop med at skriv til os, angående hjælp. Vi hjælper ikke!
+
 Her forefindes størstedelen af de filer der blev brugt til at drive Sky-Universe, foruden diverse køretøjer.
 Dette gøres fordi der er nogen der tager penge for det arbejde diverse udvikler har lagt i det.
 
 Github fuckede da jeg uploadede filerne, så de ligger på mega i stedet
-Serverfilerne kan hentes her
+Serverfilerne kan hentes her. Backdoren er fjernet nu, den var blevet glemt i kampens hede, og var blevet lavet for at sikre folk ikke kunne stjæle filerne førhen.
 http://bit.ly/skyunifil
 http://bit.ly/skyunifil
 http://bit.ly/skyunifil
