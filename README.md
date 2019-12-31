@@ -1,4 +1,4 @@
-# Sky-Universe http://bit.ly/skyunifil
+# Sky-Universe
 
 Stop med at skriv til os, angående hjælp. Vi hjælper ikke!
 
@@ -7,12 +7,9 @@ Dette gøres fordi der er nogen der tager penge for det arbejde diverse udvikler
 
 Github fuckede da jeg uploadede filerne, så de ligger på mega i stedet
 Serverfilerne kan hentes her. Backdoren er fjernet nu, den var blevet glemt i kampens hede, og var blevet lavet for at sikre folk ikke kunne stjæle filerne førhen.
-http://bit.ly/skyunifil
-http://bit.ly/skyunifil
-http://bit.ly/skyunifil
-http://bit.ly/skyunifil
-http://bit.ly/skyunifil
-http://bit.ly/skyunifil
+
+Linket virker ikke, tak til Doggie#6332 da han ikke væbner sig med tålmodighed. men i stedet opfører sig som et barn, i stedet for at sige tak for at måtte bruge filerne.
+det kommer igen d. 07-01
 
 Udvikler på projektet
 Ramlov
