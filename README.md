@@ -1,5 +1,5 @@
 # Sky-Universe http://bit.ly/2srvIi9
-
+# STOP MED AT SKRIVE PRIVAT TIL OS!!
 Stop med at skriv til os, angående hjælp. Vi hjælper ikke!
 
 Her forefindes størstedelen af de filer der blev brugt til at drive Sky-Universe, foruden diverse køretøjer.
