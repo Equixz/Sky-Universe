@@ -3,7 +3,7 @@
 Stop med at skriv til os, angående hjælp. Vi hjælper ikke!
 vi har testet filerne og diverse funktioner, og kan med 100% sikkerhed sige at dette fungere. Derfor ydes der ingen hjælp.
 
-Her forefindes størstedelen af de filer der blev brugt til at drive Sky-Universe, foruden diverse køretøjer.
+Her forefindes størstedelen af de filer der blev brugt til at drive Sky-Universe, foruden diverse køretøjer og maps.
 Dette gøres fordi der er nogen der tager penge for det arbejde diverse udvikler har lagt i det.
 
 Github fuckede da jeg uploadede filerne, så de ligger på mega i stedet
