@@ -1,6 +1,7 @@
 # Sky-Universe http://bit.ly/2srvIi9
-# STOP MED AT SKRIVE PRIVAT TIL OS!!
+# Privat beskeder modtages ikke!
 Stop med at skriv til os, angående hjælp. Vi hjælper ikke!
+vi har testet filerne og diverse funktioner, og kan med 100% sikkerhed sige at dette fungere. Derfor ydes der ingen hjælp.
 
 Her forefindes størstedelen af de filer der blev brugt til at drive Sky-Universe, foruden diverse køretøjer.
 Dette gøres fordi der er nogen der tager penge for det arbejde diverse udvikler har lagt i det.
