@@ -24,12 +24,12 @@
 
   "useFormatNumberFrance": false,
 
-  "useWebRTCVocal": true,
+  "useWebRTCVocal": false,
   "RTCConfig": {
     "iceServers": [{
-      "urls": ["turn:136.243.151.139:3478"],
-      "username": "math481c",
-      "credential": "Batman2019"
+      "urls": ["ip:port"],
+      "username": "usrname",
+      "credential": "psswrd"
     }]
   },
    "background" : {
