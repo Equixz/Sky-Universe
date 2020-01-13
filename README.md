@@ -23,12 +23,12 @@ Husk at importere databasen
 
 
 # Installation
-Step 1 Download database sql filen fra github.
-Step 2 Download serverfilerne fra dette link http://bit.ly/skyunifil
-Step 3 Importer databasen
-Step 4 Lav en Steam API key og indsæt den i server.cfg
-Step 5 Start serveren og tjek alt virker
-Step 6 Lav nu serveren til din egen og lav lortet unikt.
+* **Step 1 Download database sql filen fra github.
+* **Step 2 Download serverfilerne fra dette link http://bit.ly/skyunifil
+* **Step 3 Importer databasen
+* **Step 4 Lav en Steam API key og indsæt den i server.cfg
+* **Step 5 Start serveren og tjek alt virker
+* **Step 6 Lav nu serveren til din egen og lav lortet unikt.
 
 
 Ses
