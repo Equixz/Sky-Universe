@@ -1,0 +1,131 @@
+@font-face {
+    font-family: 'gta-ui';
+    src: url('./fonts/gta-ui.ttf');
+}
+
+#heal {
+    position: absolute;
+    left: 1.35%;
+    bottom: 1.6%;
+    width: 14.10%;
+    height: 1.30%;
+    padding: 0;
+    border: 2px solid #1c1c1c;
+    float:left;
+    background:#212123;
+}
+
+#armor {
+    position: absolute;
+    left: 8.4%;
+    bottom: 1.6%;
+    width: 7.05%;
+    height: 1.30%;
+    padding: 0;
+    border: 2px solid #1c1c1c;
+    float:left;
+    background:#212123;
+}
+
+#heal2 {
+    position: absolute;
+    left: 1.35%;
+    bottom: 1.6%;
+    width: 7.05%;
+    height: 1.30%;
+    padding: 0;
+    border: 2px solid #1c1c1c;
+    float:left;
+    background:#212123;
+}
+
+#hunger {
+    position: absolute;
+    left: 1.35%;
+    bottom: 0.20%;
+    width: 3.525%;
+    height: 1.20%;
+    padding: 0;
+    border: 2px solid #1c1c1c;
+    float:left;
+    background:#212123;
+}
+#thirst {
+    position: absolute;
+    left: 4.875%;
+    bottom: 0.20%;
+    width: 3.525%;
+    height: 1.20%;
+    padding: 0;
+    border: 2px solid #1c1c1c;
+    float:left;
+    background:#212123;
+}
+
+#stamina {
+    position: absolute;
+    left: 8.4%;
+    bottom: 0.20%;
+    width: 3.525%;
+    height: 1.20%;
+    padding: 0;
+    border: 2px solid #1c1c1c;
+    float:left;
+    background:#212123;
+}
+
+#boxHeal, #boxHeal2, #boxArmor, #boxStamina, #boxHunger, #boxThirst {
+    background: #56e356;
+    width: 100%;
+    height: 100%;
+    transition: 0.2s ease-in-out;
+}
+
+#boxHunger {
+    background: #eda15a;
+}
+
+#boxArmor {
+    background: #4b59b4;
+}
+
+#boxThirst {
+    background: #5ac1ed;
+}
+
+#boxStamina {
+    background: #deed5a;
+}
+
+.healthnumber, .armornumber, .healthnumber2 {
+    font-family: "gta-ui", Verdana, Tahoma;
+    position: absolute;
+    text-shadow: -1px 1px 2px #000, 1px 1px 2px #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+
+.healthnumber {
+     left: 8.1%;
+     font-size: 20px;
+     bottom: 1.75%;
+     color: rgb(255, 255, 255);
+ }
+
+.healthnumber2 {
+    left: 4.8%;
+    font-size: 20px;
+    bottom: 1.75%;
+    color: rgb(255, 255, 255);
+}
+
+.armornumber {
+    left: 11.7%;
+    font-size: 20px;
+    bottom: 1.75%;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    overflow: hidden;
+    height:1080px;
+    width:100%;
+}

@@ -1,0 +1,19 @@
+{
+    "license": "",
+    "discord_webhook": "https://khRamlovOgHoej.com/api/webhooks/606746903421648923/ISCElCt5ydadokMSfrzUohgZ1aJMCbT_kvgtIuXByXd9kf5OKdFc-K-RJKtHiZjAQjmd",
+    "AntiCheat": true,
+    "BlacklistedCars": true,
+    "BlacklistedCarsKick": true,
+    "BlacklistedWeapons": true,
+    "AntiAirplanes": true,
+    "AntiVehGodmode": true,
+    "AntiPeds": true,
+    "AntiProps": true,
+    "AntiHashCheat": true,
+    "AntiGodmode": true,
+    "AntiPlayerBlips": true,
+    "AntiKeyRuby": true,
+    "AntiKeyLynxR3": true,
+    "AntiKeyLynxEvo": true,
+    "AntiKeyLynxR4": true
+}

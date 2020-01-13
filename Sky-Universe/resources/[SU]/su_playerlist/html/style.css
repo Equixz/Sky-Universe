@@ -1,0 +1,52 @@
+html {
+	color: #fff;
+}
+#wrap {
+	width: 480px;
+	margin-top: 158px;
+	margin-left: auto;
+	margin-right: auto;
+    color: rgba(255, 255, 255, 1);
+	opacity: 1;
+}
+table {
+	text-align: left;
+	background-color: #151822;
+	border-radius: 15px;
+}
+td {
+	padding-left: 8px;
+	padding-right: 8px;
+	font-size: 16px;
+	font-family: 'Segoe Ui';
+}
+tr.bluebar {
+    background-color: #232632;
+    color: rgba(255, 255, 255, 1);
+	font-weight: bold;
+	text-align: center;
+}
+.bluebartext {
+	font-size: 13px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+tr.logo {
+	background-color: transparent;
+}
+tr.header {
+	height: 30px;
+}
+td.header {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+td.job {
+	width: auto;
+	font-size: 16px;
+	text-align: center;
+	padding-top: 5px;
+}
+tr.footer {
+	height: 10px;
+}

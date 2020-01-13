@@ -1,0 +1,131 @@
+<head>
+	<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+	<script src="../../configNui.js" type="text/javascript"></script>
+	<script src="scripts.js" type="text/javascript"></script>
+	<script src="debounce.min.js" type="text/javascript"></script>
+	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+		integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<link rel="stylesheet" href="styles.css" type="text/css">
+	<script src="sweetalert2.all.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+	<div class="full-screen">
+		<div class="container">
+			<button class="btnClose"><i class="fas fa-times fa-2x"></i></button>
+			<div class="text"><p>Bilen har <span class="liveries"></span> Liveries</p>
+			<p>
+			<button class="knap1">Vælg Livery 1</button> <br><br>
+			<button class="knap2">Vælg Livery 2</button> <br><br>
+			<button class="knap3">Vælg Livery 3</button> <br><br>
+			<button class="knap4">Vælg Livery 4</button> <br><br>
+			<button class="knap5">Vælg Livery 5</button> <br><br>
+			<button class="knap6">Gem Livery (10.000)</button> <br><br>
+			<div class="text2"><p>Gem funktionen virker ikke for arbejdskøretøjer!</p></div>
+			</p></div>
+		</div>
+		<div class="keys">
+			<button class="btnClose"><i class="fas fa-times fa-2x"></i></button>
+			<div class="text"><p>
+			<div align="center"><br><br>
+			<form id="cc">
+			<p>Koster 50.000 pr styk!</p>
+			<input id="nogle" type="nogle" placeholder="Indtast Nøgle Nr"><br><br><br><br>
+			<input type="submit" class="keykob" value="Køb Nøgle">
+			</form>
+		</div>
+		</div>
+		</div>
+		<div class="pris">
+			<button class="btnClose"><i class="fas fa-times fa-2x"></i></button>
+			<div class="text">
+			<div align="center">
+			<p>
+			Lejlighed1 - 1.000.000<br>
+			Lejlighed2 - 1.000.000<br>
+			Lejlighed3 - 5.000.000<br>
+			Lejlighed4 - 10.000.000<br>
+			Lejlighed5 - 10.000.000<br>
+			Lejlighed6 - 10.000.000<br>
+			Lejlighed7 - 10.000.000<br>
+			Lejlighed8 - 10.000.000<br>
+			Lejlighed9 - 10.000.000<br>
+			Lejlighed10 - Ukendt<br>
+			Lejlighed11 - 10.000.000<br>
+			Lejlighed12 - Ukendt<br>
+			Lejlighed13 - Ukendt<br>
+			Lejlighed14 - 5.000.000<br>
+			Lejlighed15 - 7.000.000<br>
+			Lejlighed16 - 450.000<br>
+			Lejlighed17 - 450.000<br>
+			Lejlighed18 - 1.500.000<br>
+			Lejlighed19 - 1.500.000<br>
+			Lejlighed20 - 1.500.000<br>
+			Lejlighed21 - 1.500.000<br>
+			Lejlighed22 - 1.500.000<br>
+			Lejlighed23 - 1.500.000<br>
+			Lejlighed24 - 1.500.000<br>
+			Lejlighed25 - 1.500.000<br>
+			Lejlighed26 - Ukendt<br>
+			Lejlighed27 - Ukendt<br>
+			</p>
+			</div>
+			</div>
+		</div>
+		<div class="check">
+			<button class="btnClose"><i class="fas fa-times fa-2x"></i></button>
+			<div class="text"><p>
+			<div align="center"><br><br>
+			<form id="check1">
+			<p>Tjek om lejligheden er ledig!</p>
+			<input id="check2" type="check2" placeholder="Indtast Lejligheds Nr"><br><br><br><br>
+			<input type="submit" class="checknow" value="Tjek!">
+			</form>
+			</div>
+			</div>
+		</div>
+		<div class="buy">
+			<button class="btnClose"><i class="fas fa-times fa-2x"></i></button>
+			<div class="text"><p>
+			<div align="center">
+			<form id="sellling">
+			<p>Sælg Lejlighed!</p>
+			<input id="sold1" type="sold1" placeholder="Lejligheds Nummeret"><br><br>
+			<input id="sold2" type="sold2" placeholder="Etagen"><br><br>
+			<input id="sold3" type="sold3" placeholder="ID på køber"><br><br><br><br>
+			<input type="submit" class="soldnow" value="Sælg!">
+			</form>
+			</div>
+			</div>
+		</div>
+		<div class="tilbage">
+			<button class="btnClose"><i class="fas fa-times fa-2x"></i></button>
+			<div class="text"><p>
+			<div align="center">
+			<form id="tilbage">
+			<p>Tilbagetræk Lejlighed!</p>
+			<input id="tilbage1" type="tilbage1" placeholder="Lejligheds Nummeret"><br><br>
+			<input id="tilbage2" type="tilbage2" placeholder="Etagen"><br><br>
+			<input id="tilbage3" type="tilbage3" placeholder="ID på køber"><br><br><br><br>
+			<input type="submit" class="tilbagenow" value="Tilbagtræk!!">
+			</form>
+			</div>
+			</div>
+		</div>
+		<div class="custom">
+			<button class="btnClose"><i class="fas fa-times fa-2x"></i></button>
+			<div class="text"><p>
+			<div align="center">
+			<form id="custom">
+			<p>Sælg Custom Bolig</p>
+			<input id="custom1" type="custom1" placeholder="Bolig Navn"><br><br>
+			<input id="custom2" type="custom2" placeholder="Pris"><br><br>
+			<input id="custom3" type="custom3" placeholder="ID på køber"><br><br><br><br>
+			<input type="submit" class="customnow" value="Sælg!">
+			</form>
+			</div>
+			</div>
+		</div>
+	</div>
+</body>
