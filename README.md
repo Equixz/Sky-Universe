@@ -33,3 +33,4 @@ Husk at importere databasen
 
 
 Ses
+Ved problemer kontakt Ramlov#5619 på discord
