@@ -1,5 +1,7 @@
 # Sky-Universe
 
+FILERNE ER IKKE ULLOVLIGE AT BRUGE! 
+
 Her forefindes størstedelen af de filer der blev brugt til at drive Sky-Universe, foruden diverse køretøjer og maps.
 Dette gøres fordi der er nogen der tager penge for det arbejde diverse udvikler har lagt i det.
 
