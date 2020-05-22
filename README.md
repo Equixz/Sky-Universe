@@ -17,7 +17,7 @@ Hjorten
 
 ## Installation
 [Wiki Install](https://github.com/Ramlov/Sky-Universe/wiki/Installation)
-
+[Video Install](https://youtu.be/ZUcPmHzvmT0)
 
 Kontakt mig på discord ved problemer
 Ramlov #5619
