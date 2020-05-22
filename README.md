@@ -15,26 +15,9 @@ Molozov
 Kasper Rasmussen
 Hjorten
 
-Stor ros til disse personer, ingen fortjener at andre har fortjenest på jeres arbejde! <3
-
-Alt er sat op og klar til at køre.
-Åben den cmd fil der hedder startserver.bat
-
-Resten kan ændres i server.cfg
-
-Husk at importere databasen
+## Installation
+[Wiki Install](https://github.com/Ramlov/Sky-Universe/wiki/Installation)
 
 
-# Installation
-* Step 1 Download database sql filen fra github.
-* Step 2 Download serverfilerne
-* Step 3 Importer databasen
-* Step 4 Lav en Steam API key og indsæt den i server.cfg https://steamcommunity.com/dev/apikey
-* Step 5 Indsæt din ip adresse og port i server.cfg
-* Step 6 Start serveren og tjek alt virker
-* Step 7 Lav nu serveren til din egen og lav lortet unikt.
-
-
-Ses
 Kontakt mig på discord ved problemer
 Ramlov #5619
