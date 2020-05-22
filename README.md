@@ -16,8 +16,8 @@ Kasper Rasmussen
 Hjorten
 
 ## Installation
-[Wiki Install](https://github.com/Ramlov/Sky-Universe/wiki/Installation)
-[Video Install](https://youtu.be/ZUcPmHzvmT0)
+* [Wiki Install](https://github.com/Ramlov/Sky-Universe/wiki/Installation)
+* [Video Install](https://youtu.be/ZUcPmHzvmT0)
 
 Join min discord ved problemer
 https://discord.gg/euc3xrc
