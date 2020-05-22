@@ -19,5 +19,7 @@ Hjorten
 * [Wiki Install](https://github.com/Ramlov/Sky-Universe/wiki/Installation)
 * [Video Install](https://youtu.be/ZUcPmHzvmT0)
 
+
+## Problems?
 Join min discord ved problemer
 https://discord.gg/euc3xrc
