@@ -12,7 +12,7 @@ echo %time% : Searching for Cache...
 rmdir /S /Q cache
 echo %time% : Cache Cleared!
 echo %time% : Launching Server
-FXServer +set citizen_dir %~dp0\citizen\ +exec server.cfg
+run +exec server.cfg
 echo %time% : Server was shut down..
 echo %time% : Attempting to restart server...
 echo.
