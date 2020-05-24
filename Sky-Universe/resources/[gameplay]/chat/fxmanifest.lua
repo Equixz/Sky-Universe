@@ -1,9 +1,17 @@
 description 'chat management stuff'
 
+dependency "vrp"
+
+server_scripts{ 
+  "@vrp/lib/utils.lua"
+}
+
 ui_page 'html/index.html'
 
 client_script 'cl_chat.lua'
+
 server_script 'sv_chat.lua'
+server_script 'emoji.lua'
 
 files {
     'html/index.html',
@@ -24,7 +32,6 @@ files {
     'html/vendor/fonts/LatoBold.woff2',
     'html/vendor/fonts/LatoBold2.woff2',
   }
-
-fx_version 'adamant'
-games { 'rdr3', 'gta5' }
-rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aware my resources *will* become incompatible once RedM ships.'
+  fx_version 'adamant'
+  games { 'rdr3', 'gta5' }
+  rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aware my resources *will* become incompatible once RedM ships.'
