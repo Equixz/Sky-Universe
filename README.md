@@ -1,7 +1,7 @@
 # Sky-Universe
 
 FILERNE ER IKKE ULOVLIGE AT BRUGE! 
-Der er ej heller ingen fejl i filerne, dog skal du sørge for at have en stærk og stabil server.
+Der er ej heller ingen fejl i filerne, dog skal du sørge for at have en stærk og stabil server. (Hvis du finder fejl, så kan du joine min discord, beskrive fejlen og så rettes den.)
 
 Her forefindes størstedelen af de filer der blev brugt til at drive Sky-Universe, foruden diverse køretøjer og maps.
 Dette gøres fordi der er nogen der tager penge for det arbejde diverse udvikler har lagt i det.
