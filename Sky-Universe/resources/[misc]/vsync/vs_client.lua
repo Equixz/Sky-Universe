@@ -3,7 +3,7 @@ vRPgt = {}
 
 vRP = Proxy.getInterface("vRP")
 
-CurrentWeather = 'XMAS'
+CurrentWeather = 'EXTRASUNNY'
 local lastWeather = CurrentWeather
 local baseTime = 0
 local timeOffset = 0
@@ -40,7 +40,7 @@ Citizen.CreateThread(function()
         SetWeatherTypePersist(lastWeather)
         SetWeatherTypeNow(lastWeather)
         SetWeatherTypeNowPersist(lastWeather)
-        if lastWeather == 'XMAS' then
+        if lastWeather == 'EXTRASUNNY' then
             SetForceVehicleTrails(true)
             SetForcePedFootstepsTracks(true)
         else
